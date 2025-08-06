@@ -73,19 +73,19 @@ The dashboard tracks the following Key Performance Indicators (KPIs):
 
 ---
 
-## 📁 Folder Structure (Recommended)
+## 📁 Folder Structure
 
-\`\`\`
+```
 Blinkit-Grocery-Analysis/
 │
-├── 📊 Dashboard
-│   └── BLINKIT GROCERY SALES ANALYSIS.pbix
+├── 📊 Dashboard/
+│   ├── BLINKIT GROCERY SALES ANALYSIS.pbix
 │   └── BLINKIT GROCERY SALES ANALYSIS.pdf
 │
 ├── 📈 Data/
 │   └── BlinkIT Grocery Data.xlsx
 │
 └── README.md
-\`\`\`
+```
 
 ---
