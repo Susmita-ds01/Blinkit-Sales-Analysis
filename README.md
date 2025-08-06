@@ -44,3 +44,52 @@ The dashboard tracks the following Key Performance Indicators (KPIs):
 ---
 
 ## 📷 Dashboard Preview
+
+<img width="1259" height="711" alt="image" src="https://github.com/user-attachments/assets/cbda90b8-c44b-43f2-9da6-f85bd470b09d" />
+
+## 🧾 Dataset Details
+
+- **File Name**: `BlinkIT Grocery Data.xlsx`  
+- **Source**: Simulated retail dataset representing Blinkit grocery outlet performance.  
+- **Fields Included**: Item details, fat content, sales metrics, outlet type, size, location tier, ratings, and year of establishment.
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI** – Data modeling, DAX, and interactive dashboard design  
+- **Excel** – Data cleaning and preprocessing  
+- **DAX Functions** – For calculated KPIs and data segmentation  
+- **Visualization Types** – Donut chart, stacked column, funnel map, matrix card, bar chart, line graph
+
+---
+
+## 🚀 Project Highlights
+
+- Clear and insightful dashboard for stakeholders
+- Easy-to-filter metrics by outlet size, location, and item type
+- Effective storytelling through visual elements
+- Professional formatting and color theme for readability
+
+---
+
+## 📁 Folder Structure (Recommended)
+
+\`\`\`
+Blinkit-Grocery-Analysis/
+│
+├── 📊 Dashboard Screenshot/
+│   └── <img width="1259" height="711" alt="image" src="https://github.com/user-attachments/assets/cbda90b8-c44b-43f2-9da6-f85bd470b09d" />
+│
+├── 📂 Resources/
+│   ├── Screenshot 2025-08-03 191256.png
+│   ├── Screenshot 2025-08-03 191343.png
+│   └── Screenshot 2025-08-03 103821.png
+│
+├── 📈 Data/
+│   └── BlinkIT Grocery Data.xlsx
+│
+└── README.md
+\`\`\`
+
+---
