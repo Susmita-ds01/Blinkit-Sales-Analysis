@@ -78,13 +78,9 @@ The dashboard tracks the following Key Performance Indicators (KPIs):
 \`\`\`
 Blinkit-Grocery-Analysis/
 │
-├── 📊 Dashboard Screenshot/
-│   └── <img width="1259" height="711" alt="image" src="https://github.com/user-attachments/assets/cbda90b8-c44b-43f2-9da6-f85bd470b09d" />
-│
-├── 📂 Resources/
-│   ├── Screenshot 2025-08-03 191256.png
-│   ├── Screenshot 2025-08-03 191343.png
-│   └── Screenshot 2025-08-03 103821.png
+├── 📊 Dashboard
+│   └── BLINKIT GROCERY SALES ANALYSIS.pbix
+│   └── BLINKIT GROCERY SALES ANALYSIS.pdf
 │
 ├── 📈 Data/
 │   └── BlinkIT Grocery Data.xlsx
